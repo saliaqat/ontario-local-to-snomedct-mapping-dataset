@@ -1,4 +1,4 @@
-# ontario-local-to-snowmedct-mapping-dataset
+# ontario-local-to-snomedct-mapping-dataset
 This repository contains the mappings of procedures for Ontario hospitals to a regional standard.
 
 # Files
